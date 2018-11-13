@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1022769651668",
+    "firebase_url": "https://android-event-management.firebaseio.com",
+    "project_id": "android-event-management",
+    "storage_bucket": "android-event-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022769651668:android:bd740414fd34eaaa",
+        "android_client_info": {
+          "package_name": "androidproject.chokshi.eventk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022769651668-4v252i43h4qnb181041dbedu9jq6sefk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1WHdBoKNlwYQlEFmLD2LB-hTEfjEN-kA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
